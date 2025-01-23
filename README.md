@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ............. many interesting projects that help me grow.
 - 📫 How to reach me ............ -through my projects here and my email: mesacruzjc@gmail.com-
 - 😄 Pronouns: ............ John Table
-- ⚡ Fun fact: ............. Play chess, coding, basketball, listen music, travels, etc.
+- ⚡ Fun fact: ............. Play chess, coding, basketball, listening to music, travels, etc.
 
 <!---
 jcmesacoding/jcmesacoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
