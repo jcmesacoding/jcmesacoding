@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jcmesacoding
-- 👀 I’m interested in .............. Software Engineering, Fullstack developer, etc.
-- 🌱 I’m currently learning ............. about programming languages like JS, SQL, Python, etc.
-- 💞️ I’m looking to collaborate on ............. many interesting projects that help me grow.
+- 👀 I’m interested in .............. Software Engineering, Fullstack developing, etc.
+- 🌱 I’m currently learning ............. about programming languages like JS, SQL, Java, etc.
+- 💞️ I’m looking to collaborate on ............. many interesting projects that help me grow up.
 - 📫 How to reach me ............ -through my projects here and my email: mesacruzjc@gmail.com-
 - 😄 Pronouns: ............ John Table
 - ⚡ Fun fact: ............. Play chess, coding, basketball, listening to music, travels, etc.
