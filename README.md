@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @jcmesacoding. This is my portfolio web: https://jumedev.netlify.app/ .<br>👀 I’m interested in .............. Software Engineering, Fullstack developing, etc.<br>🌱 I’m currently learning ............. about programming languages like JS, SQL, Java, etc.<br>💞️ I’m looking to collaborate on interesting projects where i can help out and grow up with others.<br>📫 How to reach me ............ -through my projects here and my email: mesacruzjc@gmail.com-<br>😄 Pronouns: ............ John Table<br>⚡ Fun fact: ............. Play chess, coding, basketball, listening to music, travels, etc.
+👋 Hi, I’m @jcmesacoding. This is my portfolio web: https://jumedev.netlify.app/ .<br>👀 I’m interested in Software Engineering, Fullstack developing, etc.<br>🌱 I’m currently learning about programming languages like JS, SQL, Java, etc.<br>💞️ I’m looking to collaborate on interesting projects where i can help out and grow up with others.<br>📫 How to reach me? -through my portolio here and my email: mesacruzjc@gmail.com-<br>😄 Pronouns: John Table or just Table<br>⚡ Fun fact: Play chess, coding, basketball, listening to music, travels, etc.
 
 
 ## 🌐 Socials:
